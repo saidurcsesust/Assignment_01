@@ -1,7 +1,10 @@
 # Overview of Structure and Approach
 
-This project is designed exclusively for desktop screens and uses semantic HTML5 elements (<header>, <nav>, <main>,) to maintain a clear and accessible document structure.
-The layout relies on CSS Grid and Flexbox for alignment and spacing, with no use of floats.
+This project is designed exclusively for desktop screens and uses **semantic HTML5 elements**  
+(`<header>`, `<nav>`, `<main>`) to maintain a clear and accessible document structure.
+
+The layout relies on **CSS Grid** and **Flexbox** for alignment and spacing, with no use of floats.
+
 
 # Breakpoints Used
 Desktop (1024px and above)
